@@ -1,0 +1,4 @@
+- 👋 Howdy, I’m Adéna. I’m a software engineer living in Nice, France.
+- 👀 I am a fan of photography, technology, and design. I’m also interested in arts and programming.
+- 🌱 I’m currently learning architectural application designing, and various web frontend framework technologies.
+- 📫 http://cv.pegazus.space has all my contact info.
