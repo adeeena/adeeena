@@ -8,3 +8,6 @@
   - LinkedIn: https://www.linkedin.com/in/adeeena/
   - StackOverflow: https://stackoverflow.com/users/18438667/mur%C3%A1ncsik-ad%C3%A9na
   - Dribbble: http://dribbble.com/adeeena
+
+- Projects participated in:
+  - https://genderdysphoria.fyi/hu Hungarian translation
