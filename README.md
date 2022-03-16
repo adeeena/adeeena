@@ -3,12 +3,14 @@
 - 🌱 I’m currently learning architectural application designing, and various web frontend framework technologies.
 - 📫 http://adena.work has all my contact info.
 - other links:
-  - My e-business card: https://adeeena.carrd.co | http://about.me/adeeena
+  - My e-business card: https://link.adena.work/carrd | https://link.adena.work/abm
   - Blog: https://blog.adena.work
-  - LinkedIn: https://www.linkedin.com/in/adeeena/
-  - StackOverflow: https://stackoverflow.com/users/18438667/mur%C3%A1ncsik-ad%C3%A9na
-  - Dribbble: http://dribbble.com/adeeena
+  - LinkedIn: https://link.adena.work/lnkdin
+  - Scribd: https://link.adena.work/scribd
+  - StackOverflow: https://link.adena.work/so
+  - Dribbble: https://link.adena.work/drbb
+  - Behance: https://link.adena.work/behc
 
 - Projects participated in:
   - https://genderdysphoria.fyi/hu Hungarian translation
-  - https://cutt.ly/zSqEMkH Voice acting in series of Hungarian LGBT-related video content
+  - https://link.adena.work/coe Voice acting in series of Hungarian LGBT-related video content
