@@ -1,16 +1,16 @@
 - 👋 Howdy, I’m Adéna. I’m a software engineer living in Nice, France.
 - 👀 I am a fan of photography, technology, and design. I’m also interested in arts and programming.
 - 🌱 I’m currently learning architectural application designing, and various web frontend framework technologies.
-- 📫 http://adena.work has all my contact info.
+- 📫 http://adena.dev has all my contact info.
 - other links:
-  - My e-business card: https://link.adena.work/carrd | https://link.adena.work/abm
-  - Blog: https://blog.adena.work
-  - LinkedIn: https://link.adena.work/lnkdin
-  - Scribd: https://link.adena.work/scribd
-  - StackOverflow: https://link.adena.work/so
-  - Dribbble: https://link.adena.work/drbb
-  - Behance: https://link.adena.work/behc
+  - My e-business card: https://link.adena.dev/carrd | https://link.adena.dev/abm
+  - Blog: https://blog.adena.dev
+  - LinkedIn: https://link.adena.dev/lnkdin
+  - Scribd: https://link.adena.dev/scribd
+  - StackOverflow: https://link.adena.dev/so
+  - Dribbble: https://link.adena.dev/drbb
+  - Behance: https://link.adena.dev/behc
 
 - Projects participated in:
   - https://genderdysphoria.fyi/hu Hungarian translation
-  - https://link.adena.work/coe Voice acting in series of Hungarian LGBT-related video content
+  - https://link.adena.dev/coe Voice acting in series of Hungarian LGBT-related video content
