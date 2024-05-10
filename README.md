@@ -1,10 +1,8 @@
 - 👋 Howdy, I’m Adéna. I’m a software engineer living in Nice, France.
 - 👀 I am a fan of photography, technology, and design. I’m also interested in arts and programming.
 - 🌱 I’m currently learning architectural application designing, and various web frontend framework technologies.
-- 📫 http://adena.dev has all my contact info.
-- other links:
-  - My e-business card: https://adeeena.carrd.co
-  - LinkedIn: https://linkedin.com/in/adeeena
+- 📫 My e-business card, http://adena.dev has all my contact info.
+- LinkedIn: https://linkedin.com/in/adeeena
 
 - Projects participated in:
   - https://genderdysphoria.fyi/hu Hungarian translation for Gender Dysphoria Bible
